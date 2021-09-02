@@ -1,7 +1,7 @@
 # User-Handbook
 [Getting Started](readme.mdgetting-started)
 ## Getting Started
-Make sure you have the fo9llowing parts
+Make sure you have the following parts
 1. The Actuator
 2. Compressor
 3. Cooler
