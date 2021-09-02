@@ -9,8 +9,8 @@ Make sure you have the fo9llowing parts
 5. RAM
 
 ## Opening The Box
-*Don't let kids use knife cutters.
-*Don't let dogs chew on power cables.
+* Don't let kids use knife cutters.
+* Don't let dogs chew on power cables.
 * Don't open the box in the shower or pool.
 
 ## Assembly
